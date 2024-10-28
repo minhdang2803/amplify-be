@@ -1,0 +1,16 @@
+{
+  "name": "create-auth-challenge",
+  "version": "1.0.0",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@aws-sdk/client-ses": "^3.679.0",
+    "crypto-secure-random-digit": "^1.0.10"
+  },
+  "devDependencies": {
+    "@types/aws-sdk": "^2.7.4"
+  }
+}
